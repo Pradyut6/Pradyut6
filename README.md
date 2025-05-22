@@ -14,6 +14,12 @@
 - Full stack development
 - Cloud
 - Security and performance testing
+## 🏆 Achievements
+![Certified Solutions Architect Associate](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+![Certified Cloud Practioner](https://www.credly.com/badges/ec091d14-facd-4f1c-98c6-f4c37985c023/public_url)
+![Introduction to Cloud 101](https://www.credly.com/badges/38b0ab35-9eac-461b-842d-dd3451877d78/public_url)
+![Getting Started with Compute](https://www.credly.com/badges/ed5ac138-1ac0-4d3f-9cd5-63821d1e61a1/public_url)
+![Getting Started with Storage](https://www.credly.com/badges/5682e203-ca18-40e1-a1dd-96c099e3dd0f/public_url)
 
 ## 🛠️ Tech Stack
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
