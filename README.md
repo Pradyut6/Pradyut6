@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi there 👋 I'm Pradyut Kumar Ghosh!
+🎯 Aspiring **Full Stack QA Engineer** | 🔍 Passionate about building, breaking, and perfecting web systems.
 
+
+
+Welcome to my GitHub! I'm actively building my career in Full Stack QA and cloud combining development skills with a keen eye for testing and automation. I strive to deliver robust, testable, and scalable applications.
 <!--
 **Pradyut6/Pradyut6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
