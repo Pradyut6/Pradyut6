@@ -1,4 +1,4 @@
-<img src="https://github.com/Pradyut6/Pradyut6/blob/main/banner.jpg" width="100px" />
+<img src="https://github.com/Pradyut6/Pradyut6/blob/main/banner.jpg" width="500px" />
 
 <img src="https://github.com/Pradyut6/Pradyut6/blob/main/git-pro-pic.png" width="150px" style="border-radius: 50" />
 
