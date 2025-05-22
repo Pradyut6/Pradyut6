@@ -15,6 +15,10 @@
 - Cloud
 - Security and performance testing
 ## 🏆 Achievements
+<p align="center">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" />
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" />
+</p>
 ![Certified Solutions Architect Associate](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 ![Certified Cloud Practioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
 ![Introduction to Cloud 101](https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)
