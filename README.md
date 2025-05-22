@@ -14,7 +14,7 @@
 - Full stack development
 - Cloud
 - Security and performance testing
-- 
+
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on Cloud, and full-stack projects
 - 🌱 I’m learning AWS Devops(PW Skills)
