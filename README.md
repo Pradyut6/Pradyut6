@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="[banner.png](https://github.com/Pradyut6/Pradyut6/blob/main/banner.jpg)" width="150" style="border-radius: 50%;" />
+  <img src="[banner.png](https://github.com/Pradyut6/Pradyut6/blob/main/banner.jpg)" width="150" style="border-radius: "50%" />
 </h1>
 
 ## Hi there 👋 I'm Pradyut Kumar Ghosh!
