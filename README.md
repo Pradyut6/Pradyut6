@@ -14,6 +14,13 @@
 - Full stack development
 - Cloud
 - Security and performance testing
+- 
+### 👨‍💻 About Me
+- 🔭 I’m currently working on Cloud, and full-stack projects
+- 🌱 I’m learning AWS Devops(PW Skills)
+- 💬 Ask me about **AWS, Architecture, or Automation**
+- 📫 Reach me at: [hellopradyut6@gmail.com](mailto:hellopradyut6@gmail.com)
+- 🧠 Fun Fact: I combine coding with creativity!
 
 📁 Check out my pinned projects below to see examples of:
 
