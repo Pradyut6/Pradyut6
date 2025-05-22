@@ -1,6 +1,6 @@
-<img src="(https://github.com/Pradyut6/Pradyut6/blob/main/git-pro-pic.png)" width="100%" />
+<img src="https://github.com/Pradyut6/Pradyut6/blob/main/git-pro-pic.png" width="100%" />
 
-<img src="(https://github.com/Pradyut6/Pradyut6/blob/main/banner.jpg)" width="150" style="border-radius: "50%" />
+<img src="https://github.com/Pradyut6/Pradyut6/blob/main/banner.jpg" width="150" style="border-radius: "50%" />
 
 
 # Hi there 👋 I'm Pradyut Kumar Ghosh!
