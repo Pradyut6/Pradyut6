@@ -1,4 +1,11 @@
 # Hi there 👋 I'm Pradyut Kumar Ghosh!
+<p align="center">
+  <img src="git-pro-pic" width="100%" />
+</p>
+
+<p align="center">
+  <img src="banner" width="150" style="border-radius: 50%;" />
+</p>
 🎯 Aspiring **Full Stack QA Engineer** | 🔍 Passionate about building, breaking, and perfecting web systems.
 
 ## Welcome to my GitHub! I'm actively building my career in Full Stack QA and cloud combining development skills with a keen eye for testing and automation. I strive to deliver robust, testable, and scalable applications.
